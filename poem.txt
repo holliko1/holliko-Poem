@@ -7,5 +7,7 @@ red
 green
 Unicorn
 yellow
+blue
+indigo
 These are the colurs of the rainbow
 and the unicorn
